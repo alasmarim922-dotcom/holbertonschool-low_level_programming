@@ -9,3 +9,4 @@
 8-firstdelete: A script that deletes the file betty from /tmp/my_first_directory.
 9-firstdirdeletion: A script that deletes the directory my_first_directory from the /tmp directory.
 10-back: A script that changes the working directory to the previous one.
+11-lists: A script that lists files in current, parent, and /boot directories in long format including hidden files.

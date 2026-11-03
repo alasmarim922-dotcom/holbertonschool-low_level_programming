@@ -9,3 +9,4 @@
 7-everybody: A script that adds execution permission to everyone on the file hello.
 8-James_Bond: A script that sets the permissions of the file hello to --rwx (007).
 9-John_Doe: A script that sets the permissions of the file hello to -rwxr-x-wx (753).
+10-mirror_permissions: A script that sets the mode of the file hello the same as olleh's mode using chmod --reference.

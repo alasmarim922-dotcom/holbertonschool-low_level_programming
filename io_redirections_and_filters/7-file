@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "YlxcJyJCZXN0IFNjaG9vbicsXCpcJCFcKioqKio6KQ==" | base64 -d | xargs -I {} echo "Best School" > "{}"
+echo "Best School" > '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)

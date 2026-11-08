@@ -1,4 +1,4 @@
-#include <unistd.h>
+#include "main.h"
 
 /**
  * main - Entry point
@@ -7,6 +7,12 @@
  */
 int main(void)
 {
-	write(1, "_putchar\n", 9);
+	char *str = "_putchar\n";
+
+	while (*str)
+	{
+		_putchar(*str);
+		str++;
+	}
 	return (0);
 }

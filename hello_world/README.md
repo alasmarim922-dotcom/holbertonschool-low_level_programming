@@ -1,1 +1,1 @@
-# C - Hello, World - Task 2 Assembler
+# C - Hello, World

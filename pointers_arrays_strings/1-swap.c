@@ -1,11 +1,9 @@
 #include "main.h"
 
 /**
- * swap_int - Swaps the values of two integers
- * @a: First integer pointer to be swapped
- * @b: Second integer pointer to be swapped
- *
- * Return: void
+ * swap_int - swaps the values of two integers
+ * @a: first integer
+ * @b: second integer
  */
 void swap_int(int *a, int *b)
 {
